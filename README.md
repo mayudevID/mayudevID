@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana2468&show_icons=true&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana2468&layout=compact&theme=dracula)

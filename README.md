@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana2468&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana2468&layout=compact&theme=dracula)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maulana2468&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maulana2468&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

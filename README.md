@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My pRofile Stats](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat)
+![My Profile Stats](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=flat)
 
 - 🌱 I’m currently learning **Flutter**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maulana2468&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Language and Tools
 <p align="left">

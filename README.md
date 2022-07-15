@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![My Profile Stats](https://komarev.com/ghpvc/?username=maulana2468&color=green&style=flat)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **Kotlin**
 
 ### Language and Tools
 <p align="left">

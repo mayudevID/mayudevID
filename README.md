@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Profile Stats](https://komarev.com/ghpvc/?username=maulana2468&color=green&style=flat)
+![My Profile Stats](https://komarev.com/ghpvc/?username=mayudevID&color=green&style=flat)
 
 - 🌱 I’m currently learning **Flutter** and **Kotlin**
 
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <a href="https://https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana2468&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana2468&layout=compact&theme=dracula)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maulana2468&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayudevID&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayudevID&layout=compact&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayudevID&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
